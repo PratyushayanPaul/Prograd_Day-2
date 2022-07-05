@@ -1,0 +1,23 @@
+h1{
+  background-color: antiquewhite;
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+#form{
+  background-color: black;
+  color: white;
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  
+}
+body{
+  background-color: rgb(175, 141, 79);
+}
+
+#usability{
+  color: yellow;
+}
